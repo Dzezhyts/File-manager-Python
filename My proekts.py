@@ -1,3 +1,13 @@
+# Yauheni Dzehyts 
+# Beginner Python developer from Belarus
+# Passionate about learning and growing in IT.
+#  -- Create new text files
+#  -- Add new lines to existing files
+#  -- Clean (empty) file contents
+#  -- Delete files 
+#  -- Read and display file content 
+#  -- Structured with functions and 'main()' entry point
+#  -- Uses Python built in modules: 'os', 'open()', 'with()', and 'input()'
 import os
 # =========================== File  manager ==================================
 def create_file():
